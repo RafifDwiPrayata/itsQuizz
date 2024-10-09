@@ -21,6 +21,8 @@ Aplikasi quiz berbasis web sederhana yang dibangun menggunakan HTML, CSS, dan PH
 - Soal dapat disimpan di database (opsional).
 - Navigasi pertanyaan secara dinamis.
 
+![Alt Text](image.png)
+
 ## Teknologi yang Digunakan
 
 - **HTML** - Untuk struktur halaman web.
